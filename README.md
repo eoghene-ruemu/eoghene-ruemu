@@ -3,7 +3,6 @@
 </p>
 
 
-# 🛡️ Ebieri Oghene-Ruemu  
 ### Cloud & Cybersecurity Analyst | Incident Response | Identity | Automation | AWS Security
 
 Welcome! I’m Ebieri, a cybersecurity practitioner with hands-on experience securing cloud environments, responding to threats, and building automated defense pipelines. My work blends creativity, technical depth, and storytelling to simulate what a full enterprise cyber defense ecosystem looks like.
