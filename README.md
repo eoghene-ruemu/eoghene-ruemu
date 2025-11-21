@@ -1,133 +1,132 @@
-🟣 WAKANDA CYBER DEFENSE NETWORK (WCDN)
-🛡️ Profile of Ebieri Oghene-Ruemu
-⚡ Cybersecurity Analyst | Cloud Security | Threat Detection | SOC Apprentice
+# 🟣 WAKANDA CYBER DEFENSE NETWORK (WCDN)  
+## 🛡️ Profile of Ebieri Oghene-Ruemu  
+### ⚡ Cybersecurity Analyst | Cloud Security | Threat Detection | SOC Apprentice  
 
-🐾 Welcome to My Cyber Realm
+---
 
-My name is Ebieri Oghene-Ruemu, and I serve within the Wakanda Cyber Defense Network (WCDN) — a futuristic, high-impact cybersecurity division dedicated to defending digital nations across the globe.
+## 🐾 Welcome to My Cyber Realm
+
+Greetings! I’m **Ebieri Oghene-Ruemu**, a cybersecurity analyst operating within the **Wakanda Cyber Defense Network (WCDN)** — a futuristic, high-impact security division dedicated to defending digital nations across cloud, network, and identity environments.
 
 I specialize in:
 
-⚡ Cloud Security (AWS)
+- ⚡ **Cloud Security (AWS)**
+- 🛰️ **Threat Detection & Incident Response**
+- 🛡️ **SOC/Blue Team Operations**
+- 🔍 **Log Analysis & Investigation**
+- 🔐 **Identity & Access Management**
+- 💠 **Network Defense (pfSense, Snort)**
+- 🧰 **Automation (Python, Bash, PowerShell)**
 
-🛰️ Threat Detection & Response
+This portfolio presents **five major cybersecurity operations**, each fully documented and executed within a Wakanda-themed cyber universe.
 
-🛡️ SOC/Blue Team Operations
+---
 
-🔍 Incident Investigation
+# ⚔️ Featured WCDN Cyber Projects
 
-🔐 Identity & Access Management
+Below are the **five elite WCDN divisions** housed in this portfolio:
 
-💠 Network Defense (pfSense, Snort)
+---
 
-🧰 Automation (Python, Bash, PowerShell)
+## 🔹 1. WCDN–Outbreak-Command-Unit  
+**Codename:** *Operation ViralStorm*  
+**Focus:** SOC/SIEM outbreak detection, triage, escalation workflows, ticketing, and threat investigation across multi-account AWS environments.  
 
-This profile showcases my real cybersecurity projects, brought to life through a Wakanda-inspired lens — merging technical excellence, creativity, and professional documentation.
+👉 **Repo:** https://github.com/eoghene-ruemu/WCDN-Outbreak-Command-Unit  
 
-⚔️ Featured WCDN Cyber Projects
+---
 
-Below are the five elite operations housed in this GitHub portfolio — each one representing a different division of WCDN:
+## 🔹 2. WCDN–Panther-Domain-Authority  
+**Codename:** *Project SilverClaw*  
+**Focus:** Windows Server 2022 AD deployment — DNS configuration, OU design, domain controller promotion, and PowerShell automation.  
 
-🔹 1. Vibranium Cloud Defense Range
+👉 **Repo:** https://github.com/eoghene-ruemu/WCDN-Panther-Domain-Authority  
 
-Codename: Project V-Thunderstrike
-A full AWS security range with GuardDuty, Security Hub, CloudTrail, VPC Flow Logs, and attacker simulations.
+---
 
-👉 Repo: WCDN-Vibranium-Cloud-Defense-Range
+## 🔹 3. WCDN–Vibranium-Cloud-Defense-Range  
+**Codename:** *Project V-Thunderstrike*  
+**Focus:** Cloud governance, compliance posture assessment, security maturity scoring, and AWS security mapping (CIS, NIST, SOC2).  
 
-🔹 2. Aegis Automation Protocol
+👉 **Repo:** https://github.com/eoghene-ruemu/WCDN-Vibranium-Cloud-Defense-Range  
 
-Codename: Operation Stormbreaker
-Automated cloud incident response using Lambda, EventBridge, GuardDuty, and SNS alerting.
+---
 
-👉 Repo: WCDN-Aegis-Automation-Protocol
+## 🔹 4. WCDN–Aegis-Automation-Protocol  
+**Codename:** *Operation Stormbreaker*  
+**Focus:** Automated cloud incident response pipeline using GuardDuty, EventBridge, SNS, and Lambda to detect, notify, and contain compromised EC2 instances.  
 
-🔹 3. SentinelGate Network Defense Grid
+👉 **Repo:** https://github.com/eoghene-ruemu/WCDN-Aegis-Automation-Protocol  
 
-Codename: Mission PantherWatch
-Home lab deployment of pfSense + Snort IDS/IPS with attack detection and IPS prevention sim.
+---
 
-👉 Repo: WCDN-SentinelGate-Network-Defense
+## 🔹 5. WCDN–CyberGuard-Network-Lab  
+**Codename:** *Mission PantherWatch*  
+**Focus:** Network security lab using pfSense + Snort to detect Nmap, Nikto, brute-force attempts, and exploit activity. Includes IPS blocking and alert analysis.  
 
-🔹 4. Datapath Strategic Networking Core
+👉 **Repo:** https://github.com/eoghene-ruemu/WCDN-CyberGuard-Network-Lab  
 
-Codename: Operation RiverTribune
-A routed Cisco Packet Tracer network with VLANs, IP addressing, routing, and troubleshooting.
+---
 
-👉 Repo: WCDN-Datapath-Networking-Core
+# 🧠 Cyber Skills Arsenal
 
-🔹 5. Panther Domain Authority
+### 🟣 Core Strengths
+- Cloud Security (AWS)
+- Threat Detection & IR  
+- SOC Analyst Workflows  
+- Log & Alert Analysis  
+- Windows Server & AD  
+- Network Architecture  
+- Identity & Access Management  
+- Script Automation  
 
-Codename: Project SilverClaw
-Windows Server 2022 Active Directory deployment with DNS, replication, Group Policy & automation.
+---
 
-👉 Repo: WCDN-Panther-Domain-Authority
+# 🛠️ Tools & Technologies  
+AWS | GuardDuty | Security Hub | CloudTrail | IAM  
+pfSense | Snort | VirtualBox  
+Splunk | Sysmon | Wireshark  
+Python | Bash | PowerShell  
+Cisco Packet Tracer | Linux | Windows Server  
 
-🧠 Cyber Skills Arsenal
-🟣 Core Strengths
+---
 
-Threat Detection & IR
+# 🌍 My Cyber Journey
 
-Cloud Security (AWS)
+I trained through **The Knowledge House Cybersecurity Fellowship**, completing hands-on operations across:
 
-Log Analysis (SIEM)
+- Secure AWS multi-account architecture  
+- SOC monitoring & incident response  
+- Threat detection pipelines  
+- Identity management & access control  
+- Network defense (IDS/IPS)  
+- Windows enterprise administration  
+- Automation and scripting tasks  
 
-Network Architecture
+Each repository represents **real work, real analysis, and real security problem-solving**.
 
-Vulnerability Management
+---
 
-Automation & Scripting
+# 🌐 Connect With Me
 
-Documentation & Reporting
+📧 Email: **eoruemu@gmail.com**  
+💼 LinkedIn: **https://www.linkedin.com/in/ebiogheneruemu**  
+🚀 GitHub: **https://github.com/eoghene-ruemu**  
+🛰️ TryHackMe: **https://tryhackme.com/p/tHeBaRbS**  
 
-🛠️ Tools & Technologies
+---
 
-AWS | GuardDuty | Security Hub | CloudTrail | pfSense | Snort | Splunk | Python | Bash | PowerShell | Cisco Packet Tracer |  Linux | Windows Server
+# ⚖️ Ethical Commitment
 
-🌍 My Cyber Journey
-
-I trained under The Knowledge House Cybersecurity Fellowship, completing complex operations across:
-
-Secure cloud architecture
-
-SOC workflows
-
-Incident response
-
-Identity management
-
-Automation tasks
-
-Networking fundamentals
-
-Windows enterprise administration
-
-Each project in this portfolio represents real work, real analysis, and real problem-solving.
-
-🌐 Connect With Me
-
-📧 Email: eoruemu@gmail.com
-
-💼 LinkedIn: https://www.linkedin.com/in/ebiogheneruemu
-
-🚀 GitHub: https://github.com/eoghene-ruemu
-
-🛰️ TryHackMe: https://tryhackme.com/p/tHeBaRbS
-
-📜 Ethical Commitment
-
-As a cybersecurity professional, I uphold the highest ethical standards.
 All work shown here is:
 
-🔐 Based on isolated lab environments
+- 🔐 Performed in isolated lab environments  
+- 🛡️ Free of sensitive or production data  
+- ⚖️ Fully compliant with ethical hacking standards  
+- 📚 For professional development & education  
 
-🛡️ Sanitized and safe
+---
 
-⚖️ Fully compliant with ethical hacking guidelines
+# 🐾 “In Wakanda, we defend the future.”  
 
-📚 For educational and professional development only
-
-🐾 “In Wakanda, we defend the future.”
-
-Thank you for visiting my cyber portfolio.
-Explore the projects, review the artifacts, and feel free to connect.
+Thank you for visiting my cyber portfolio — explore the projects, review the documentation, and feel free to connect.
