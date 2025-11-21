@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/eoghene-ruemu/eoghene-ruemu/main/<wakanda-banner>.png" width="100%" />
+</p>
+
+
 # 🛡️ Ebieri Oghene-Ruemu  
 ### Cloud & Cybersecurity Analyst | Incident Response | Identity | Automation | AWS Security
 
