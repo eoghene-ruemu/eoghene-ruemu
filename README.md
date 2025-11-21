@@ -1,6 +1,29 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/eoghene-ruemu/eoghene-ruemu/main/wakanda-banner.png" width="100%" />
 </p>
+<p align="center">
+
+  <!-- LIVE DEMO -->
+  <a href="YOUR_LIVE_LINK" target="_blank">
+    <img src="https://img.shields.io/badge/LIVE-DEMO-00E5FF?style=for-the-badge&labelColor=1A0033&logo=windowsterminal&logoColor=white" />
+  </a>
+
+  <!-- VIEW REPO -->
+  <a href="YOUR_REPO_LINK" target="_blank">
+    <img src="https://img.shields.io/badge/VIEW-REPO-6A0DAD?style=for-the-badge&labelColor=1A0033&logo=github&logoColor=white" />
+  </a>
+
+  <!-- RESUME -->
+  <a href="YOUR_RESUME_LINK" target="_blank">
+    <img src="https://img.shields.io/badge/VIEW-RESUME-6A0DAD?style=for-the-badge&labelColor=00E5FF&logo=adobeacrobatreader&logoColor=white" />
+  </a>
+
+  <!-- EMAIL -->
+  <a href="mailto:eoruemu@gmail.com">
+    <img src="https://img.shields.io/badge/EMAIL-ME-00E5FF?style=for-the-badge&labelColor=1A0033&logo=gmail&logoColor=white" />
+  </a>
+
+</p>
 
 <p align="center">
 
@@ -102,20 +125,6 @@ Enterprise-style network segmentation and monitoring for critical workloads.
 
 ## 📫 Connect With Me
 - GitHub: **[@eoghene-ruemu](https://github.com/eoghene-ruemu)**
-
-<p align="left">
-
-<a href="YOUR_LIVE_LINK" target="_blank">
-  <img src="https://img.shields.io/badge/LIVE--DEMO-7C3AED?style=for-the-badge&logo=windowsterminal&logoColor=00E5FF&labelColor=1A0033&color=7C3AED" />
-</a>
-
-<a href="YOUR_REPO_LINK" target="_blank">
-  <img src="https://img.shields.io/badge/VIEW--REPO-00E5FF?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=1A0033&color=00E5FF" />
-</a>
-
-</p>
-
-
 
 ---
 
