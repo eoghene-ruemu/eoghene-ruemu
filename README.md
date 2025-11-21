@@ -71,7 +71,7 @@ Enterprise-style network segmentation and monitoring for critical workloads.
 
 ## 📫 Connect With Me
 - GitHub: **[@eoghene-ruemu](https://github.com/eoghene-ruemu)**  
-- (Optional: add LinkedIn if you want)
+
 
 ---
 
