@@ -103,13 +103,17 @@ Enterprise-style network segmentation and monitoring for critical workloads.
 ## 📫 Connect With Me
 - GitHub: **[@eoghene-ruemu](https://github.com/eoghene-ruemu)**
 
-- <a href="YOUR_REPO_URL" target="_blank">
-  <img src="https://img.shields.io/badge/REPO-WCDN-%238B5CF6?style=for-the-badge&logo=github&logoColor=white&labelColor=4B0082&color=8B5CF6" />
-</a>
+<p align="left">
 
 <a href="YOUR_LIVE_LINK" target="_blank">
-  <img src="https://img.shields.io/badge/LIVE-DEMO-%2300E5FF?style=for-the-badge&logo=windowsterminal&logoColor=white&labelColor=1A0033&color=00E5FF" />
+  <img src="https://img.shields.io/badge/LIVE--DEMO-7C3AED?style=for-the-badge&logo=windowsterminal&logoColor=00E5FF&labelColor=1A0033&color=7C3AED" />
 </a>
+
+<a href="YOUR_REPO_LINK" target="_blank">
+  <img src="https://img.shields.io/badge/VIEW--REPO-00E5FF?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=1A0033&color=00E5FF" />
+</a>
+
+</p>
 
 
 
