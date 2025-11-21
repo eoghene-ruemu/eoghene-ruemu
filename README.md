@@ -20,11 +20,12 @@
   </a>
 
   <!-- Resume -->
-  <a href="https://YOUR_RESUME_LINK_HERE" target="_blank">
-    <img src="https://img.shields.io/badge/Resume-Download-6200EA?style=for-the-badge&logo=readme&logoColor=white&labelColor=2B0066&color=9D4DFF" />
+  <p align="center">
+  <a href="https://raw.githubusercontent.com/eoghene-ruemu/eoghene-ruemu/main/Oghene-Ruemu_Ebieri_Resume.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/Resume-Wakanda%20Protocol-purple?style=for-the-badge&logo=readme&logoColor=white" />
   </a>
-
 </p>
+
 
 
 
