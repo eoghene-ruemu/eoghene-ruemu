@@ -2,6 +2,31 @@
   <img src="https://raw.githubusercontent.com/eoghene-ruemu/eoghene-ruemu/main/wakanda-banner.png" width="100%" />
 </p>
 
+<p align="center">
+
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/ebiogheneruemu" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-7A1FFF?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=3B0CA8&color=7A1FFF" />
+  </a>
+
+  <!-- GitHub -->
+  <a href="https://github.com/eoghene-ruemu" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Profile-4B0082?style=for-the-badge&logo=github&logoColor=white&labelColor=240046&color=7A00FF" />
+  </a>
+
+  <!-- Email -->
+  <a href="mailto:eoruemu@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-Contact-9D00FF?style=for-the-badge&logo=gmail&logoColor=white&labelColor=3C0066&color=C000FF" />
+  </a>
+
+  <!-- Resume -->
+  <a href="https://YOUR_RESUME_LINK_HERE" target="_blank">
+    <img src="https://img.shields.io/badge/Resume-Download-6200EA?style=for-the-badge&logo=readme&logoColor=white&labelColor=2B0066&color=9D4DFF" />
+  </a>
+
+</p>
+
+
 
 ### Cloud & Cybersecurity Analyst | Incident Response | Identity | Automation | AWS Security
 
