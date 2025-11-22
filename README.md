@@ -5,7 +5,6 @@
 </p>
 
 <p align="center">
-
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/ebiogheneruemu" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-7A1FFF?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=3B0CA8&color=7A1FFF" />
