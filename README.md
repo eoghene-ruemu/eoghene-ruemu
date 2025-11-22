@@ -1,6 +1,7 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/eoghene-ruemu/eoghene-ruemu/main/wakanda-banner.png" width="100%" />
 </p>
+
 </p>
 
 <p align="center">
